@@ -7,3 +7,4 @@ date, assignee, and category. The task manager provides functionality to add,
 remove, update, and display tasks, as well as manage users. This project aims 
 to provide a user-friendly and efficient tool for managing tasks and increasing 
 productivity
+to run the code you should write in the terminal("stramlit run main.py")
